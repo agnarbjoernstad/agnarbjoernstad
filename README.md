@@ -1,4 +1,7 @@
-### Hi there 👋
+![Agnar22's github stats](https://github-readme-stats.vercel.app/api?username=agnar22&show_icons=true)
+
+![Agnar22's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agnar22&layout=compact&theme=dark&langs_count=10)
+
 
 <!--
 **Agnar22/Agnar22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
